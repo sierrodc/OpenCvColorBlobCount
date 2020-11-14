@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CountObjects": {
+      "commandName": "Project",
+      "commandLineArgs": "picture.jpg"
+    }
+  }
+}
